@@ -1,0 +1,1 @@
+# config-binding-source-generator-cs8598-repro
