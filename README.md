@@ -1,1 +1,3 @@
-# config-binding-source-generator-cs8598-repro
+# Config binding source generator CS8598 repro
+
+A repository which reproduces a CS8598 warning when using the [configuration binding source generator](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-preview-6/#configuration-binding-source-generator-improvements).
